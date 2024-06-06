@@ -247,7 +247,7 @@ const Ecommerce = () => {
             </button>
           </div>
           <p className="text-xs cursor-pointer hover:drop-shadow-xl font-semibold rounded-lg w-24 bg-orange-400 py-0.5 px-2 text-gray-200 mt-10">
-            16 APR, 2021
+            6 June, 2024
           </p>
 
           <div className="flex gap-4 border-b-1 border-color mt-6">
