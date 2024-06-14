@@ -9,8 +9,6 @@ const date1 = new Date('2019, 1, 1');
 
 function filterValue(value) {
   if (value.x >= date1) {
-    // eslint-disable-next-line no-lone-blocks
-    {/* eslint-disable-next-line react/jsx-props-no-spreading, no-sequences */}
     return value.x,
     value.high, value.low;
   }
